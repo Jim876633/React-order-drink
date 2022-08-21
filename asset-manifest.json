@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-order-drink/static/css/main.721f86f8.css",
+    "main.js": "/React-order-drink/static/js/main.579b3b26.js",
+    "index.html": "/React-order-drink/index.html",
+    "main.721f86f8.css.map": "/React-order-drink/static/css/main.721f86f8.css.map",
+    "main.579b3b26.js.map": "/React-order-drink/static/js/main.579b3b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721f86f8.css",
+    "static/js/main.579b3b26.js"
+  ]
+}
